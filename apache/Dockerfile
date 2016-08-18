@@ -1,5 +1,4 @@
 FROM komljen/ubuntu
-MAINTAINER Alen Komljen <alen.komljen@live.com>
 
 RUN \
   apt-get update && \
